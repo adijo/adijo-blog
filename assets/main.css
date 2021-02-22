@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @import "./base.css";
+
+  a {
+    @apply text-indigo-300 dark:text-indigo-300;
+  }
+
+  p {
+    @apply tracking-wide;
+  }
+}
+
+@layer components {
+  @import "./components.css";
+}

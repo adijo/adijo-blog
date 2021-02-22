@@ -1,0 +1,15 @@
+{
+  "siteMetadata": {
+    "title": "Aditya Joshi",
+    "author": {
+      "name": "Aditya Joshi",
+      "summary": "who works on creating value using software and data"
+    },
+    "description": "A blog created with Next.js and Tailwind.css",
+    "siteUrl": "https://adijoshi.com",
+    "language": "en-US",
+    "social": {
+      "twitter": "1adityajoshi"
+    }
+  }
+}
