@@ -16,10 +16,11 @@ export function Description({ className }) {
       <br />
       <p className="text-lg">
         I'm not a big fan of labels as they can be self limiting in nature. I
-        think of myself as a problem solver using every tool in my toolbox. I'm
-        experienced in the "full stack" of software development and data
-        science, from gathering user requirements, scoping, design, planning,
-        implementation, deployment (CI/CD), monitoring and maintenance.
+        think of myself as a problem solver. I use every tool in my toolbox to
+        solve the problem at hand. I'm experienced in the "full stack" of
+        software development and data science, from gathering user requirements,
+        scoping, design, planning, implementation, deployment (CI/CD),
+        monitoring and maintenance.
       </p>
       <br />
       <a
@@ -102,7 +103,7 @@ export function Description({ className }) {
         <li>Lifting Weights</li>
         <li>
           Problem solving, check some of my solutions{" "}
-          <a href="https://github.com/adijo/data-science-prep">on GitHub.</a>
+          <a href="https://github.com/adijo/data-science-prep">on GitHub</a>
         </li>
         <li></li>
       </ul>
