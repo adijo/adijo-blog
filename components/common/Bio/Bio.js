@@ -17,7 +17,7 @@ export function Bio({ className }) {
       />
 
       <p className="text-base leading-7 tracking-wide">
-        I solve problems using software and machine learning. Toronto 🇨🇦
+        I solve problems with software and machine learning. Toronto 🇨🇦
       </p>
     </div>
   );
