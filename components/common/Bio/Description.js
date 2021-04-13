@@ -6,8 +6,7 @@ export function Description({ className }) {
       </h2>
       <br />
       <p className="text-lg">
-        Currently, I'm developing and deploying machine learning models at the
-        Boston Consulting Group. Previously, I built distributed, scalable and
+        I'm a machine learning engineer based in Toronto. Previously, I built distributed, scalable and
         fault tolerant distributed systems at Amazon Web Services and{" "}
         <a href="https://www.livemint.com/Companies/k6ejrcrud0xQXKpC0wjwkN/Dentsu-Aegis-buys-digital-marketing-agency-Sokrati.html">
           Sokrati. (acquired by Merkle, Inc)
