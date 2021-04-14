@@ -17,8 +17,8 @@ export function Description({ className }) {
         I'm not a big fan of labels as they can be self limiting in nature. I
         think of myself as a problem solver. I use every tool in my toolbox to
         solve the problem at hand. I'm experienced in the "full stack" of
-        software development and data science, from gathering user requirements,
-        scoping, design, planning, implementation, deployment (CI/CD),
+        data science and software development, from gathering user requirements,
+        scoping, exploratory analysis, design, planning, implementation, deployment (CI/CD),
         monitoring and maintenance.
       </p>
       <br />
