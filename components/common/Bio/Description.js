@@ -23,12 +23,12 @@ export function Description({ className }) {
       </p>
       <br />
       <a
-        href="https://twitter.com/1adityajoshi?ref_src=twsrc%5Etfw"
+        href="https://twitter.com/amplituhedron?ref_src=twsrc%5Etfw"
         class="twitter-follow-button"
         data-size="large"
         data-show-count="false"
       >
-        Follow me on Twitter @1adityajoshi
+        Follow me on Twitter @amplituhedron
       </a>
       <script
         async
